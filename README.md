@@ -1,1 +1,1 @@
-# latihan-git2
+# aku baru belajar git nih
